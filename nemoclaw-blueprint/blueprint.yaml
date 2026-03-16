@@ -59,7 +59,7 @@ components:
         provider_type: "nvidia"
         provider_name: "nvidia-curated"
         endpoint: "http://127.0.0.1:18990/v1"
-        model: "nvidia/nemotron-3-super"
+        model: "nvidia/nemotron-3-super-120b-a12b"
         credential_env: "NVIDIA_API_KEY"
 
   policy:
